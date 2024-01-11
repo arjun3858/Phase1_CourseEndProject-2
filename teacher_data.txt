@@ -1,0 +1,2 @@
+101,Renukha,Science A
+102,Athira,Mathematics C
